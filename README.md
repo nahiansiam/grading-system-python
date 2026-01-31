@@ -27,6 +27,6 @@ Handles invalid input (marks outside 0–100)
 
 Suitable for lab work and practice projects
 
-Technologies Used:
+Programming language Used:
 
 Python
